@@ -1,17 +1,8 @@
-# Medical Pager Chat App
+# Medical Pager Chat App ( Vital Com ) 
 
 ![Chat Application](https://i.ibb.co/hsvcw4V/image.png)
 
 ## Introduction
-This is a code repository for the corresponding video tutorial. 
-
-In this video, we will create a full Realtime Chat Application. We're going to use React on the front end, NodeJS on the back end and the entire chat is powered with https://gstrm.io/js-mastery.
-
-By the end of this video, you will be able to build any real-time chat application you can think of.
-
-Setup:
-- run ```npm i && npm start``` for both client and server side to start the development server
-
-## Stay up to date with new projects
-New major projects coming soon, subscribe to the mailing list to stay up to date https://resource.jsmasterypro.com/newsletter
-# VitalCom
+Real-time Messaging: Users can send and receive messages in real-time, facilitating quick communication between medical professionals.
+Group Chats: Medical teams can create and participate in group chats, allowing for effective collaboration and coordination among team members.
+Multimedia Sharing: Medical professionals may need to share images, documents, or test results. The application can enable the seamless sharing of multimedia files within chats
